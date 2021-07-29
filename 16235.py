@@ -58,4 +58,4 @@ for i in range(k):
     # 겨울 : 2차원 배열의 합
     maps = [[maps[jj][ii] + feed[jj][ii] for ii in range(n)]for jj in range(n)]
 print(len(tree))
-# 43% 시간초과
+# 43% 시간초과 - 이유
